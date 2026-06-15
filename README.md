@@ -55,4 +55,56 @@ V0.0
 roc-auc :  0.8234335680793671
 SIGNATE_public : 0.786826013700816
 ```
+<br>
+<br>
+<br>
 
+># 環境構築(windows)
+
+
+zip解凍
+```PowerShell
+ Expand-Archive -Path .\data.zip
+```
+
+<br>
+
+解凍後の中身移動
+```PowerShell
+mv .\data\data\* .\data\
+```
+
+<br>
+
+いらんフォルダ消す
+```PowerShell
+rm -r -fo .\data\data
+```
+
+<br>
+
+venv構築
+```PowerShell
+py -m venv .venv
+```
+<br>
+
+venv有効化
+```PowerShell
+.\.venv\Scripts\Activate.ps1
+```
+<br>
+
+必要pipinstall
+```PowerShell
+pip install -r requirements.txt
+```
+
+<br>
+
+nb起動
+```PowerShell
+jupyter lab
+```
+
+<br>
