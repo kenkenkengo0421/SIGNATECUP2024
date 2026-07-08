@@ -1,5 +1,8 @@
 .venv/
-*.csv
+submission.csv
+train.csv
+test.csv
+sample_submit.csv
 *.pkl
 .ipynb_checkpoints/
 __pycache__/
