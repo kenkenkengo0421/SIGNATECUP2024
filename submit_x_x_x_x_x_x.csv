@@ -1,3 +1,4 @@
+Age,TypeofContact,CityTier,DurationOfPitch,Occupation,Gender,NumberOfPersonVisiting,NumberOfFollowups,ProductPitched,PreferredPropertyStar,NumberOfTrips,Passport,PitchSatisfactionScore,Designation,MonthlyIncome,Age_20s_30s,customer_info_marriage,customer_info_usecar,customer_info_child
 48.0,0.0,2,780.0,smallbusiness,0.0,1.0,4.0,4,3.0,7,0,3,4,496950.0,0,1,1,0
 30.0,0.0,2,720.0,smallbusiness,1.0,1.0,4.0,2,3.0,4,1,3,3,300000.0,1,1,1,1
 25.0,0.0,1,540.0,salaried,1.0,1.0,4.0,1,3.0,1,0,3,1,260000.0,1,0,1,1
